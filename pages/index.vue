@@ -44,7 +44,7 @@ export default {
     };
   },
   head: {
-    titleTemplate: "%s - Nuxt.js",
+    titleTemplate: "Grenoble Entrepreneuriat",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
