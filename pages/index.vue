@@ -42,6 +42,14 @@ export default {
     return {
       sections: content.sections
     };
+  },
+  head: {
+    titleTemplate: "%s - Nuxt.js",
+    meta: [
+      { charset: "utf-8" },
+      { name: "viewport", content: "width=device-width, initial-scale=1" },
+      { hid: "description", name: "description", content: "Meta description" }
+    ]
   }
 };
 </script>
@@ -97,6 +105,10 @@ export default {
   padding: 30px 0px 0px 0px;
   text-transform: uppercase;
   font-weight: bold;
+
+  @media (max-width: 950px) {
+    font-size: 30px;
+  }
 }
 
 .subtitle {
@@ -119,12 +131,13 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 
   .tag {
     background: #eaeef7;
     padding: 5px 10px;
     border-radius: 3px;
-    margin: 0px 5px;
+    margin: 5px;
   }
 }
 

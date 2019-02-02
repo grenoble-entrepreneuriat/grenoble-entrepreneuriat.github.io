@@ -10,8 +10,12 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
 .itemLabel {
   color: #ec871d;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
 }
 </style>
