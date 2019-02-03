@@ -18,7 +18,7 @@
     </div>
     <footer class="footer">
       <a
-        href="https://github.com/grenoble-entrepreneuriat/grenoble-entrepreneuriat.github.io/issues"
+        href="https://github.com/grenoble-entrepreneuriat/grenoble-entrepreneuriat.github.io/pulls"
         class="footer-add"
         target="_blank"
         >Proposer un ajout</a
