@@ -54,6 +54,10 @@
           "url": "https://www.adie.org/"
         },
         {
+          "name": "Ecobiz entrepreneurs",
+          "url": "http://entreprendre.grenoble.cci.fr/je-rejoins-un-reseau-ecobiz-entrepreneuriat-et-innovation-22164.kjsp"
+        },
+        {
           "name": "Incubagem",
           "url": "https://www.incubagem.com/"
         },
@@ -65,13 +69,14 @@
           "name": "Linksium",
           "url": "https://www.linksium.fr/"
         },
-        {
-          "name": "Ecobiz entrepreneurs",
-          "url": "http://entreprendre.grenoble.cci.fr/je-rejoins-un-reseau-ecobiz-entrepreneuriat-et-innovation-22164.kjsp"
-        },
+
         {
           "name": "Réseau Entreprendre Isère",
           "url": "https://www.reseau-entreprendre.org/isere/"
+        },
+        {
+          "name": "Une rivière Un territoire",
+          "url": "https://www.edf.fr/groupe-edf/nos-energies/energies-renouvelables/hydraulique/enjeux/economie-et-dialogue-local/une-riviere-un-territoire"
         }
       ]
     },
