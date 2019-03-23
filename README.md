@@ -14,7 +14,7 @@ Ce dépôt de code contient le code source du site web [grenoble-entrepreneuriat
 
 ## Proposer un ajout
 
-Si certaines informations sur l'entrepreneuriat grenoblois manquent dans la liste, n'hésitez à proposer des ajouts. Pour cela, il faut [créer une pull request](https://github.com/grenoble-entrepreneuriat/repertoire/pulls) sur ce dépôt de code.
+Si certaines informations sur l'entrepreneuriat grenoblois manquent dans la liste, n'hésitez à proposer des ajouts. Pour cela, il faut [créer une pull request](https://github.com/grenoble-entrepreneuriat/grenoble-entrepreneuriat.github.io/pulls) sur ce dépôt de code.
 
 > Vous pouvez facilement ajouter un nouvel élément dans la liste en modifiant le fichier *assets/content.yml*
 
@@ -45,41 +45,6 @@ Color palettes used:
 - https://www.npmjs.com/package/push-dir
 
 
-
-
 ## Licence
 
 The projet est sous licence MIT.
-
-
-
-
-# grenoble-entrepreneuriat.github.io
-
-> Nuxt.js project
-
-## Build Setup
-
-```bash
-# install dependencies
-$ yarn install # Or yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
-## Drone
-
-- http://plugins.drone.io/drone-plugins/drone-gh-pages/
-
-
-## Resources
-
-- https://colorhunt.co/palette/137170
-- https://colorhunt.co/palette/136330
-- https://colorhunt.co/palette/138147
