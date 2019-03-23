@@ -26,9 +26,9 @@ $ yarn install
 # lancement du serveur de développement
 $ yarn dev
 
-# déploiement
-
+# compilation en fichiers statiques
 $ yarn generate
+# déploiement
 $ yarn deploy
 ```
 
