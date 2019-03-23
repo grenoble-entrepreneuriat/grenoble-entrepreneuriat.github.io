@@ -25,6 +25,8 @@ Si certaines informations sur l'entrepreneuriat grenoblois manquent dans la list
 $ yarn install
 # lancement du serveur de développement
 $ yarn dev
+# verification du coding style
+$ yarn lint
 
 # compilation en fichiers statiques
 $ yarn generate
