@@ -16,7 +16,7 @@ Ce dépôt de code contient le code source du site web [grenoble-entrepreneuriat
 
 Si certaines informations sur l'entrepreneuriat grenoblois manquent dans la liste, n'hésitez à proposer des ajouts. Pour cela, il faut [créer une pull request](https://github.com/grenoble-entrepreneuriat/grenoble-entrepreneuriat.github.io/pulls) sur ce dépôt de code.
 
-> Vous pouvez facilement ajouter un nouvel élément dans la liste en modifiant le fichier *assets/content.yml*
+> Vous pouvez facilement ajouter un nouvel élément dans la liste en modifiant le fichier *assets/content.json*
 
 ## Développer & Déployer
 
