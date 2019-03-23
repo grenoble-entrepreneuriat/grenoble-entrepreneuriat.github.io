@@ -34,16 +34,8 @@ $ yarn deploy
 
 > Ce projet utilise nuxt.js. Pour plus de détails sur le fonctionnement de nuxt.js, regardez la [documentation](https://github.com/nuxt/nuxt.js)
 
-Color palettes used:
-
-- https://colorhunt.co/palette/137170
-- https://colorhunt.co/palette/136330
-- https://colorhunt.co/palette/138147
-
-
 - https://fr.nuxtjs.org/faq/github-pages/
 - https://www.npmjs.com/package/push-dir
-
 
 ## Licence
 
