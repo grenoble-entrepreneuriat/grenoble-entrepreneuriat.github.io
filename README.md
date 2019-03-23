@@ -36,6 +36,7 @@ $ yarn deploy
 
 - https://fr.nuxtjs.org/faq/github-pages/
 - https://www.npmjs.com/package/push-dir
+- https://github.com/nuxt-community/analytics-module
 
 ## Licence
 

@@ -35,7 +35,9 @@ module.exports = {
       }
     }
   },
-  plugins: [
-    { src: '~plugins/ga.js', ssr: false }
+  modules: [
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-136823171-1'
+    }]
   ]
 }
